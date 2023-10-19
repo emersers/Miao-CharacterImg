@@ -11,7 +11,7 @@
 #### 文明观图
 
 <div align="center">
-  <img  src="img/开摆.png" alt="开摆" height="233px">
+  <img  src="img/开摆.png" alt="开摆" weight="400px">
 </div>
 
 #### 图库说明
